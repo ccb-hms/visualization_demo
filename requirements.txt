@@ -43,3 +43,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+##visrequirments
+ipymolstar>=0.1.0
+matplotlib>=3.10.1
+nglview>=3.1.4
+numpy>=2.2.5
